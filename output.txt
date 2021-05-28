@@ -1,0 +1,95 @@
+JOB ID   :2
+OUT OF DATA
+IC       :1
+IR       :GD20
+SI       :0
+PI       :0
+TI       :0
+TLL      :4
+TTC      :2
+LLC      :0
+TTL      :16
+
+
+NOT
+JOB ID   :17
+LINE LIMIT EXCEEDED
+IC       :9
+IR       :PD30	
+SI       :0
+PI       :0
+TI       :0
+TLL      :1
+TTC      :13
+LLC      :2
+TTL      :20
+
+
+JOB ID   :1
+TIME LIMIT EXCEEDED
+IC       :1
+IR       :GD10
+SI       :0
+PI       :0
+TI       :0
+TLL      :1
+TTC      :2
+LLC      :0
+TTL      :1
+
+
+8
+7
+6
+JOB ID   :3
+NO ERROR 
+IC       :7
+IR       :H   
+SI       :3
+PI       :0
+TI       :0
+TLL      :3
+TTC      :10
+LLC      :3
+TTL      :10
+
+
+JOB ID   :17
+OPERATION CODE ERROR
+IC       :1
+IR       :GC20
+SI       :0
+PI       :1
+TI       :0
+TLL      :2
+TTC      :0
+LLC      :0
+TTL      :10
+
+
+JOB ID   :18
+OPERAND ERROR
+IC       :0
+IR       :GD2o
+SI       :0
+PI       :2
+TI       :0
+TLL      :2
+TTC      :0
+LLC      :0
+TTL      :10
+
+
+JOB ID   :1
+INVALID PAGE FAULT
+IC       :2
+IR       :LR52
+SI       :0
+PI       :3
+TI       :0
+TLL      :3
+TTC      :2
+LLC      :0
+TTL      :20
+
+
