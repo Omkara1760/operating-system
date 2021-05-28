@@ -150,7 +150,7 @@ int OS::terminate(int err)
 void OS::execute()
 {   int loc;
     cout<<"STATUS:Executing the Program.......\n";
-    fp2.open("output.txt",ios::app);
+    fp2.open("output_2.txt",ios::app);
     int RIC=addressMap(IC);
     if(PI!=0)
     {
@@ -537,7 +537,7 @@ void OS::compareRegister()
 int main()
 {
     OS obj;
-    obj.fp.open("input.txt"); 
+    obj.fp.open("input_2.txt"); 
     int jobs=7;
     for(int i=0;i<jobs;i++)
         {
