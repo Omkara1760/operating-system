@@ -4,7 +4,7 @@
 #include<ctype.h>
 #include<math.h>
 #include <stdlib.h>
-// #include<bits/stdc++.h>
+
 using namespace std;
 /*
 TODO: Either store entire in page table at PTR+VA/10 or make sure the input file 
